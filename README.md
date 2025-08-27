@@ -70,20 +70,10 @@ Mục tiêu của dự án là thể hiện khả năng:
 - Không bắt lỗi vô nghĩa; nếu cần, log rõ ràng
 - Asset đặt tên nhất quán, có tiền tố theo loại (vd: `SFX_`, `VFX_`)
 
-## Ảnh/GIF (tùy chọn)
-
-Bạn có thể thêm ảnh/gif demo nhanh vào đây để tăng thiện cảm. Ví dụ:
-
-```
-Assets/Readme/demo.gif
-```
 
 ## Liên hệ
 
-- Tên: (Điền tên của bạn)
-- Email: (Email chuyên nghiệp)
-- LinkedIn/GitHub: (Liên kết cập nhật)
-
-## Giấy phép
-
-Mục đích chính là minh họa kỹ năng cá nhân. Tài sản âm thanh/hình ảnh thuộc quyền sở hữu tương ứng; không dùng cho thương mại nếu chưa có quyền.
+- Tên: Phạm Hưng
+- Email: hwngt1412@gmail.com
+- LinkedIn: https://www.linkedin.com/in/h%C6%B0ng-ph%E1%BA%A1m-32741a378
+- GitHub: https://github.com/hungtun
